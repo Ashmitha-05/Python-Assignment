@@ -25,3 +25,6 @@ for i in range(n):
 
     elif command[0] == "print":
         print_list(lst)
+
+    else:
+        print("Not a valid command")
