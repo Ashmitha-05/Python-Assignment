@@ -1,4 +1,5 @@
-import util
+from src.Question2.util import *
+import py
 
 def test_calculate_average():
     student_dict = {

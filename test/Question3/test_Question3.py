@@ -1,4 +1,4 @@
-import util
+from src.Question3 import util
 
 def test_find_second_large():
     nums = [2, 3, 6, 6, 5]

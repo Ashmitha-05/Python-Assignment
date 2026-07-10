@@ -1,4 +1,4 @@
-import util
+from src.Question1.util import *
 import py
 
 def test_insert_element():

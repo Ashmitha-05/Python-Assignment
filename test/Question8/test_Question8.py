@@ -1,4 +1,4 @@
-from util import *
+from src.Question8 import util
 
 
 def test_find_day():
